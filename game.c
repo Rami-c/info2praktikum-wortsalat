@@ -9,12 +9,12 @@
 
 //TODO: Spiellogik implementieren:
 /* * Wörter aus der Wortliste zufällig horizontal oder vertikal platzieren
-   * restliche Felder mit zufälligen Buchstaben füllen */
+   * restliche Felder mit zufälligen Buchstaben füllen 111*/
 
 // Creates the word salad by placing words randomly and filling empty spaces
 int createWordSalad(char salad[MAX_SEARCH_FIELD_LEN][MAX_SEARCH_FIELD_LEN], unsigned int searchFieldLen, const char words[][MAX_WORD_LEN], unsigned int wordCount)
 {
-   printf("rami\n");
+
 }
 
 // Prints the word salad to console
